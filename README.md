@@ -1,2 +1,23 @@
-# tomato-food-delivery
-A front-end food ordering website inspired by Swiggy, developed using HTML, CSS, and JavaScript. It allows users to browse food items by category, add and remove items from the cart, view total pricing in real time, and simulate payment and order confirmation using modal popups.
+# 🍅 Tomato – Food Delivery Website
+
+A Swiggy-inspired food ordering website built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Category-based food filtering
+- Add to cart functionality
+- Cart sidebar with total price
+- Payment modal simulation
+- Order success popup
+- Responsive UI
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 🌐 Live Demo
+https://pagidalavarshitha123.github.io/tomato-food-delivery/
+
+
+## 📌 Note
+This project is built for educational purposes.
